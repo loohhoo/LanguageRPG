@@ -1,0 +1,60 @@
+{
+	"question": [
+		{"question": "What noun means 'bird'?",
+		"choice1": "el caballo",
+		"choice2": "el agua",
+		"choice3": "el pájaro",
+		"answer": "el pájaro",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'bull'?",
+		"choice1": "el pollo",
+		"choice2": "el toro",
+		"choice3": "la oca",
+		"answer": "el toro",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'cat'?",
+		"choice1": "tenir",
+		"choice2": "el gato",
+		"choice3": "el perro",
+		"answer": "el gato",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'chicken'?",
+		"choice1": "el elefante",
+		"choice2": "el pollo",
+		"choice3": "el pato",
+		"answer": "el pollo",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'deer'?",
+		"choice1": "la vaca",
+		"choice2": "la ciervo",
+		"choice3": "el ciervo",
+		"answer": "el ciervo",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'dog'?",
+		"choice1": "el gato",
+		"choice2": "el araña",
+		"choice3": "el perro",
+		"answer": "el perro",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'elephant'?",
+		"choice1": "el conejo",
+		"choice2": "el elefante",
+		"choice3": "el mapache",
+		"answer": "el elefante",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'fish'?",
+		"choice1": "comer",
+		"choice2": "el pez",
+		"choice3": "el léon",
+		"answer": "el pez",
+		"qtype":"define"
+		}
+	]
+}

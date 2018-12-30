@@ -1,0 +1,56 @@
+<tomes>
+	<tome name='ER Verbs'>
+		<word>
+			<spanish>yo: -o, tú: -es, él: -e, nosotros: -emos, vosotros: -éis, ellos: -en</spanish>
+			<english>These verbs end in -ER. They follow a regular conjugation</english>
+		</word>
+		<word>
+			<spanish>aprender</spanish>
+			<english>to learn</english>
+		</word>
+		<word>
+			<spanish>beber</spanish>
+			<english>to drink</english>
+		</word>
+		<word>
+			<spanish>comer</spanish>
+			<english>to eat</english>
+		</word>
+		<word>
+			<spanish>comprender</spanish>
+			<english>to understand</english>
+		</word>
+		<word>
+			<spanish>creer</spanish>
+			<english>to believe</english>
+		</word>
+		<word>
+			<spanish>deber</spanish>
+			<english>to ought to, to owe</english>
+		</word>
+		<word>
+			<spanish>leer</spanish>
+			<english>to read</english>
+		</word>
+		<word>
+			<spanish>meter</spanish>
+			<english>to place</english>
+		</word>
+		<word>
+			<spanish>responder</spanish>
+			<english>to answer</english>
+		</word>
+		<word>
+			<spanish>romper</spanish>
+			<english>to break</english>
+		</word>
+		<word>
+			<spanish>suspender</spanish>
+			<english>to suspend</english>
+		</word>
+		<word>
+			<spanish>vender</spanish>
+			<english>to sell</english>
+		</word>
+	</tome>
+</tomes>

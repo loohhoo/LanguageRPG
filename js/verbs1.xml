@@ -1,0 +1,80 @@
+<tomes>
+	<tome name='AR Verbs'>
+		<word>
+			<english>These verbs end in -AR. This category of verbs is the most common. They have the following endings</english>
+			<spanish>yo: -o, tú: -as, él: -a, nosotros: -amos, vosotros: -áis, ellos: -an</spanish>
+		</word>
+		<word>
+			<english>to love</english>
+			<spanish>amar</spanish>
+		</word>
+		<word>
+			<english>to dance</english>
+			<spanish>bailar</spanish>
+		</word>
+		<word>
+			<english>to walk</english>
+			<spanish>caminar</spanish>
+		</word>
+		<word>
+			<english>to sing</english>
+			<spanish>cantar</spanish>
+		</word>
+		<word>
+			<english>to buy</english>
+			<spanish>comprar</spanish>
+		</word>
+		<word>
+			<english>to listen to something</english>
+			<spanish>escuchar</spanish>
+		</word>
+		<word>
+			<english>to study</english>
+			<spanish>estudiar</spanish>
+		</word>
+		<word>
+			<english>to win</english>
+			<spanish>ganar</spanish>
+		</word>
+		<word>
+			<english>to speak</english>
+			<spanish>hablar</spanish>
+		</word>
+		<word>
+			<english>to clean</english>
+			<spanish>limpiar</spanish>
+		</word>
+		<word>
+			<english>to arrive</english>
+			<spanish>llegar</spanish>
+		</word>
+		<word>
+			<english>to carry</english>
+			<spanish>llevar</spanish>
+		</word>
+		<word>
+			<english>to look</english>
+			<spanish>mirar</spanish>
+		</word>
+		<word>
+			<english>to need</english>
+			<spanish>necesitar</spanish>
+		</word>
+		<word>
+			<english>to practice</english>
+			<spanish>practicar</spanish>
+		</word>
+		<word>
+			<english>to play (an instrument)</english>
+			<spanish>tocar</spanish>
+		</word>
+		<word>
+			<english>to take, to drink</english>
+			<spanish>tomar</spanish>
+		</word>
+		<word>
+			<english>to work</english>
+			<spanish>trabajar</spanish>
+		</word>
+	</tome>
+</tomes>

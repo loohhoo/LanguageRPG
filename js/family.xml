@@ -1,0 +1,96 @@
+<tomes>
+	<tome name='family'>
+		<word>
+			<english>family</english>
+			<spanish>la familia</spanish>
+		</word>
+		<word>
+			<english>aunt</english>
+			<spanish>la tía</spanish>
+		</word>
+		<word>
+			<english>uncle</english>
+			<spanish>el tío</spanish>
+		</word>
+		<word>
+			<english>baby</english>
+			<spanish>el nene (boy), la nena (girl)</spanish>
+		</word>
+		<word>
+			<english>boyfriend, girlfriend</english>
+			<spanish>el novio, la novia</spanish>
+		</word>
+		<word>
+			<english>brother, sister</english>
+			<spanish>el hermano, la hermana</spanish>
+		</word>
+		<word>
+			<english>child</english>
+			<spanish>el niño (boy), la niña (girl)</spanish>
+		</word>
+		<word>
+			<english>son, daughter</english>
+			<spanish>el hijo, la hija</spanish>
+		</word>
+		<word>
+			<english>father</english>
+			<spanish>el padre, el papá</spanish>
+		</word>
+		<word>
+			<english>mother</english>
+			<spanish>la madre, la mamá</spanish>
+		</word>
+		<word>
+			<english>godfather, godmother</english>
+			<spanish>el padrino, la madrina</spanish>
+		</word>
+		<word>
+			<english>godson, goddaughter</english>
+			<spanish>el ahijado, la ahijada</spanish>
+		</word>
+		<word>
+			<english>grandfather, grandmother</english>
+			<spanish>el abuelo, la abuela</spanish>
+		</word>
+		<word>
+			<english>grandson, granddaughter</english>
+			<spanish>el nieto, la nieta</spanish>
+		</word>
+		<word>
+			<english>husband, wife</english>
+			<spanish>el esposo, la esposa</spanish>
+		</word>
+		<word>
+			<english>nephew, niece</english>
+			<spanish>el sobrino, la sobrina</spanish>
+		</word>
+		<word>
+			<english>cousin</english>
+			<spanish>el primo (boy), la prima (girl)</spanish>
+		</word>
+		<word>
+			<english>great-</english>
+			<spanish>bis- (eg: bisabuela for great-grandmother)</spanish>
+		</word>
+		<word>
+			<english>step-</english>
+			<spanish>-astro/-astra (eg: el padrastro for stepfather)</spanish>
+		</word>
+		<word>
+			<english>brother-in-law, sister-in-law</english>
+			<spanish>el cuñado, la cuñada</spanish>
+		</word>
+		<word>
+			<english>father-in-law, mother-in-law</english>
+			<spanish>el suegro, la suegra</spanish>
+		</word>
+		<word>
+			<english>son-in-law, daughter-in-law</english>
+			<spanish>el yerno, la nuera</spanish>
+		</word>
+		<word>
+			<english>-in-law</english>
+			<spanish>... político (male) / política (female</spanish>
+		</word>
+	</tome>
+</tomes>

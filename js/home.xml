@@ -1,0 +1,76 @@
+<tomes>
+	<tome name='the house'>
+		<word>
+			<english>house</english>
+			<spanish>la casa</spanish>
+		</word>
+		<word>
+			<english>apartment</english>
+			<spanish>el apartamento</spanish>
+		</word>
+		<word>
+			<english>attic</english>
+			<spanish>el desván</spanish>
+		</word>
+		<word>
+			<english>basement</english>
+			<spanish>el sótano</spanish>
+		</word>
+		<word>
+			<english>bathroom</english>
+			<spanish>el cuarto de baño</spanish>
+		</word>
+		<word>
+			<english>bedroom</english>
+			<spanish>el dormitorio</spanish>
+		</word>
+		<word>
+			<english>closet</english>
+			<spanish>el clóset</spanish>
+		</word>
+		<word>
+			<english>dining room</english>
+			<spanish>el comedor</spanish>
+		</word>
+		<word>
+			<english>entrance</english>
+			<spanish>la entrada</spanish>
+		</word>
+		<word>
+			<english>family room</english>
+			<spanish>el cuarto de estar</spanish>
+		</word>
+		<word>
+			<english>garage</english>
+			<spanish>el garaje</spanish>
+		</word>
+		<word>
+			<english>hall</english>
+			<spanish>el pasillo</spanish>
+		</word>
+		<word>
+			<english>kitchen</english>
+			<spanish>la cocina</spanish>
+		</word>
+		<word>
+			<english>living room</english>
+			<spanish>la sala</spanish>
+		</word>
+		<word>
+			<english>office</english>
+			<spanish>el despacho</spanish>
+		</word>
+		<word>
+			<english>porch</english>
+			<spanish>el porche</spanish>
+		</word>
+		<word>
+			<english>shower</english>
+			<spanish>la ducha</spanish>
+		</word>
+		<word>
+			<english>stairs</english>
+			<spanish>las escaleras</spanish>
+		</word>
+	</tome>
+</tomes>

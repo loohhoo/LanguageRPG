@@ -1,0 +1,100 @@
+<tomes>
+	<tome name='calendar'>
+		<word>
+			<english>day</english>
+			<spanish>el día</spanish>
+		</word>
+		<word>
+			<english>night</english>
+			<spanish>la noche</spanish>
+		</word>
+		<word>
+			<english>week</english>
+			<spanish>la semana</spanish>
+		</word>
+		<word>
+			<english>Monday</english>
+			<spanish>el lunes</spanish>
+		</word>
+		<word>
+			<english>Tuesday</english>
+			<spanish>el martes</spanish>
+		</word>
+		<word>
+			<english>Wednesday</english>
+			<spanish>el miércoles</spanish>
+		</word>
+		<word>
+			<english>Thursday</english>
+			<spanish>el jueves</spanish>
+		</word>
+		<word>
+			<english>Friday</english>
+			<spanish>el viernes</spanish>
+		</word>
+		<word>
+			<english>Saturday</english>
+			<spanish>el sábado</spanish>
+		</word>
+		<word>
+			<english>Sunday</english>
+			<spanish>el domingo</spanish>
+		</word>
+		<word>
+			<english>month</english>
+			<spanish>el mes</spanish>
+		</word>
+		<word>
+			<english>year</english>
+			<spanish>el año</spanish>
+		</word>
+		<word>
+			<english>January</english>
+			<spanish>enero</spanish>
+		</word>
+		<word>
+			<english>February</english>
+			<spanish>febrero</spanish>
+		</word>
+		<word>
+			<english>March</english>
+			<spanish>marzo</spanish>
+		</word>
+		<word>
+			<english>April</english>
+			<spanish>abril</spanish>
+		</word>
+		<word>
+			<english>May</english>
+			<spanish>mayo</spanish>
+		</word>
+		<word>
+			<english>June</english>
+			<spanish>junio</spanish>
+		</word>
+		<word>
+			<english>July</english>
+			<spanish>julio</spanish>
+		</word>
+		<word>
+			<english>August</english>
+			<spanish>agosto</spanish>
+		</word>
+		<word>
+			<english>September</english>
+			<spanish>septiembre</spanish>
+		</word>
+		<word>
+			<english>October</english>
+			<spanish>octubre</spanish>
+		</word>
+		<word>
+			<english>November</english>
+			<spanish>noviembre</spanish>
+		</word>
+		<word>
+			<english>December</english>
+			<spanish>diciembre</spanish>
+		</word>
+	</tome>
+</tomes>

@@ -1,0 +1,152 @@
+<tomes>
+	<tome name='numbers'>
+		<word>
+			<english>number</english>
+			<spanish>el número</spanish>
+		</word>
+		<word>
+			<english>zero</english>
+			<spanish>cero</spanish>
+		</word>
+		<word>
+			<english>one</english>
+			<spanish>uno</spanish>
+		</word>
+		<word>
+			<english>two</english>
+			<spanish>dos</spanish>
+		</word>
+		<word>
+			<english>three</english>
+			<spanish>tres</spanish>
+		</word>
+		<word>
+			<english>four</english>
+			<spanish>cuatro</spanish>
+		</word>
+		<word>
+			<english>five</english>
+			<spanish>cinco</spanish>
+		</word>
+		<word>
+			<english>six</english>
+			<spanish>seis</spanish>
+		</word>
+		<word>
+			<english>seven</english>
+			<spanish>siete</spanish>
+		</word>
+		<word>
+			<english>eight</english>
+			<spanish>ocho</spanish>
+		</word>
+		<word>
+			<english>nine</english>
+			<spanish>nueve</spanish>
+		</word>
+		<word>
+			<english>ten</english>
+			<spanish>diez</spanish>
+		</word>
+		<word>
+			<english>eleven</english>
+			<spanish>once</spanish>
+		</word>
+		<word>
+			<english>twelve</english>
+			<spanish>doce</spanish>
+		</word>
+		<word>
+			<english>thirteen</english>
+			<spanish>trece</spanish>
+		</word>
+		<word>
+			<english>fourteen</english>
+			<spanish>catorce</spanish>
+		</word>
+		<word>
+			<english>fifteen</english>
+			<spanish>quince</spanish>
+		</word>
+		<word>
+			<english>sixteen, seventeen, eighteen, nineteen</english>
+			<spanish>dieciseis, diecisiete, dieciocho, diecinueve</spanish>
+		</word>
+		<word>
+			<english>twenty</english>
+			<spanish>veinte</spanish>
+		</word>
+		<word>
+			<english>twenty one, twenty two, twenty three... twenty six...</english>
+			<spanish>veintiuno, veintidós, veintitrés... veintiséis</spanish>
+		</word>
+		<word>
+			<english>thirty</english>
+			<spanish>treinta</spanish>
+		</word>
+		<word>
+			<english>thirty one... thirty nine</english>
+			<spanish>treinta y uno... treinta y nueve</spanish>
+		</word>
+		<word>
+			<english>fourty</english>
+			<spanish>cuarenta</spanish>
+		</word>
+		<word>
+			<english>fifty</english>
+			<spanish>cincuenta</spanish>
+		</word>
+		<word>
+			<english>sixty</english>
+			<spanish>sesenta</spanish>
+		</word>
+		<word>
+			<english>seventy</english>
+			<spanish>setenta</spanish>
+		</word>
+		<word>
+			<english>eighty</english>
+			<spanish>ochenta</spanish>
+		</word>
+		<word>
+			<english>ninety</english>
+			<spanish>noventa</spanish>
+		</word>
+		<word>
+			<english>hundred</english>
+			<spanish>cien</spanish>
+		</word>
+		<word>
+			<english>hundred and one</english>
+			<spanish>ciento uno</spanish>
+		</word>
+		<word>
+			<english>two hundred... five hundred...</english>
+			<spanish>doscientos... quinientos...</spanish>
+		</word>
+		<word>
+			<english>seven hundred... nine hundred</english>
+			<spanish>setecientos... novecientos...</spanish>
+		</word>
+		<word>
+			<english>thousand, two thousand</english>
+			<spanish>mil, dos mil</spanish>
+		</word>
+		<word>
+			<english>million</english>
+			<spanish>millón</spanish>
+		</word>
+		<word>
+			<english>billion</english>
+			<spanish>billón</spanish>
+		</word>
+		<word>
+			<english>trillion</english>
+			<spanish>trillón</spanish>
+		</word>
+		<word>
+			<english>infinity</english>
+			<spanish>la infinidad</spanish>
+		</word>
+	</tome>
+</tomes>

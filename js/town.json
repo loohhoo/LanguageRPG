@@ -1,0 +1,18 @@
+{
+	"question": [
+		{"question": "What noun means 'deer'?",
+		"choice1": "la vaca",
+		"choice2": "la ciervo",
+		"choice3": "el ciervo",
+		"answer": "el ciervo",
+		"qtype":"define"
+		},
+		{"question": "What noun means 'fish'?",
+		"choice1": "comer",
+		"choice2": "el pez",
+		"choice3": "el léon",
+		"answer": "el pez",
+		"qtype":"define"
+		}
+	]
+}

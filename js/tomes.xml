@@ -1,0 +1,93 @@
+<tomes>
+	<tome name='animals'>
+		<word>
+			<english>bird</english>
+			<spanish>el pájaro</spanish>
+		</word>
+		<word>
+			<english>bull</english>
+			<spanish>el toro</spanish>
+		</word>
+		<word>
+			<english>cat</english>
+			<spanish>el gato</spanish>
+		</word>
+		<word>
+			<english>chicken</english>
+			<spanish>el pollo</spanish>
+		</word>
+		<word>
+			<english>cow</english>
+			<spanish>la vaca</spanish>
+		</word>
+		<word>
+			<english>deer</english>
+			<spanish>el ciervo</spanish>
+		</word>
+		<word>
+			<english>dog</english>
+			<spanish>el perro</spanish>
+		</word>
+		<word>
+			<english>duck</english>
+			<spanish>el pato</spanish>
+		</word>
+		<word>
+			<english>elephant</english>
+			<spanish>el elefante</spanish>
+		</word>
+		<word>
+			<english>fish</english>
+			<spanish>el pez</spanish>
+		</word>
+		<word>
+			<english>goose</english>
+			<spanish>la oca</spanish>
+		</word>
+		<word>
+			<english>horse</english>
+			<spanish>el caballo</spanish>
+		</word>
+		<word>
+			<english>lion</english>
+			<spanish>el léon</spanish>
+		</word>
+		<word>
+			<english>mouse</english>
+			<spanish>el ratón</spanish>
+		</word>
+		<word>
+			<english>penguin</english>
+			<spanish>el pingüino</spanish>
+		</word>
+		<word>
+			<english>rabbit</english>
+			<spanish>el conejo</spanish>
+		</word>
+		<word>
+			<english>raccoon</english>
+			<spanish>el mapache</spanish>
+		</word>
+		<word>
+			<english>sheep</english>
+			<spanish>la oveja</spanish>
+		</word>
+		<word>
+			<english>spider</english>
+			<spanish>la araña</spanish>
+		</word>
+		<word>
+			<english>tiger</english>
+			<spanish>el tigre</spanish>
+		</word>
+
+		<word>
+			<english>turkey</english>
+			<spanish>el pavo</spanish>
+		</word>
+		<word>
+			<english>turtle</english>
+			<spanish>la tortuga</spanish>
+		</word>
+	</tome>
+</tomes>

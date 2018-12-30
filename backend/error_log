@@ -1,0 +1,6 @@
+[15-Sep-2018 23:18:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'kanjiCraft'@'localhost' to database 'languageRpg' in /home/languagegirlcom/public_html/LanguageRPG/backend/databaseConnector.php:8
+Stack trace:
+#0 /home/languagegirlcom/public_html/LanguageRPG/backend/databaseConnector.php(8): PDO->__construct('mysql:host=loca...', 'kanjiCraft', 'IwyJ&U~zn=uo', Array)
+#1 /home/languagegirlcom/public_html/LanguageRPG/backend/loginCheck.php(5): require('/home/languageg...')
+#2 {main}
+  thrown in /home/languagegirlcom/public_html/LanguageRPG/backend/databaseConnector.php on line 8

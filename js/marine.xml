@@ -1,0 +1,64 @@
+<tomes>
+	<tome name='Marine Life'>
+		<word>
+			<english>sea, ocean</english>
+			<spanish>el mar</spanish>
+		</word>
+		<word>
+			<english>alligator</english>
+			<spanish>el caimán</spanish>
+		</word>
+		<word>
+			<english>crab</english>
+			<spanish>el congrejo</spanish>
+		</word>
+		<word>
+			<english>crocodile</english>
+			<spanish>el cocodrilo</spanish>
+		</word>
+		<word>
+			<english>dolphin</english>
+			<spanish>el delfín</spanish>
+		</word>
+		<word>
+			<english>fish</english>
+			<spanish>el pez</spanish>
+		</word>
+		<word>
+			<english>hurricane</english>
+			<spanish>el huracán</spanish>
+		</word>
+		<word>
+			<english>octopus</english>
+			<spanish>el pulpo</spanish>
+		</word>
+		<word>
+			<english>seaweed</english>
+			<spanish>el alga</spanish>
+		</word>
+		<word>
+			<english>shark</english>
+			<spanish>el tiburón</spanish>
+		</word>
+		<word>
+			<english>starfish</english>
+			<spanish>la estrella de mar</spanish>
+		</word>
+		<word>
+			<english>tide</english>
+			<spanish>la marea</spanish>
+		</word>
+		<word>
+			<english>turtle</english>
+			<spanish>la tortuga</spanish>
+		</word>
+		<word>
+			<english>wave</english>
+			<spanish>la ola</spanish>
+		</word>
+		<word>
+			<english>whale</english>
+			<spanish>la ballena</spanish>
+		</word>
+	</tome>
+</tomes>

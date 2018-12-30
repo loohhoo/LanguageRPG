@@ -1,0 +1,10 @@
+<game>
+	<name></name>
+	<hp>20</hp>
+	<x>0</x>
+	<y>0</y>
+	<map>start</map>
+	<items>
+		<item name='animals' type='tome'></item>
+	</items>
+</game>
